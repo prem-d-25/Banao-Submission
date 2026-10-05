@@ -1,0 +1,66 @@
+EMAIL THREAD â€” Vireo Audio â€” support tickets (Set B)
+Messages exchanged before this pack was sent. Provided as-is.
+========================================================================
+
+From: Priya Raman, Head of Customer Experience, Vireo Audio
+To: Kabir Nanda, Account Lead (our side)
+Cc: Arjun Mehta; Neha Kulkarni; Sameer Qureshi
+Date: Mon 7 Sep 2026, 09:50
+Subject: CSAT dashboard
+
+Kabir - CSAT per agent, handle time per agent, bottom ten flagged. Q3 training budget is
+Rs 4 lakh and I want it spent on the right people. Top five get the Diwali bonus. Sameer
+is sending the exports.
+
+------------------------------------------------------------------------
+
+From: Sameer Qureshi, Helpdesk Administrator (IT), Vireo Audio
+To: Kabir Nanda, Account Lead (our side)
+Cc: Priya Raman; Arjun Mehta; Neha Kulkarni
+Date: Mon 7 Sep 2026, 14:30
+Subject: Exports
+
+Attached. Two agents in the roster share a display name - join on agent_id, never on
+name, I have been bitten by that. Orders export has lot codes because Finance asked for
+them last year; ignore if not useful. About forty tickets have junk in the customer
+message (IVR transcripts that failed), that's the phone system, not the agents.
+Timestamps as displayed in the helpdesk.
+
+------------------------------------------------------------------------
+
+From: Arjun Mehta, Finance Controller, Vireo Audio
+To: Priya Raman, Head of Customer Experience, Vireo Audio
+Cc: Neha Kulkarni; Sameer Qureshi; Kabir Nanda
+Date: Tue 8 Sep 2026, 10:12
+Subject: Re: CSAT dashboard
+
+Replacement spend has roughly doubled since December. Rohan in the warehouse thinks it's
+festive volume catching up with us. Each replacement is about Rs 2,500 all-in by my
+reckoning. Whatever gets built, I want it cheap to run - no per-ticket model calls at Rs
+5 a pop across twelve thousand tickets.
+
+------------------------------------------------------------------------
+
+From: Neha Kulkarni, Support Operations Manager, Vireo Audio
+To: Priya Raman, Head of Customer Experience, Vireo Audio
+Cc: Arjun Mehta; Sameer Qureshi; Kabir Nanda
+Date: Tue 8 Sep 2026, 16:45
+Subject: Re: CSAT dashboard
+
+Please keep in mind before anyone gets 'retrained': the hardware triage rota (Kavya's
+four plus the warranty team) get the angriest customers by design. That's the point of
+the rota. If they're at the bottom that might be the queue, not the person.
+
+------------------------------------------------------------------------
+
+From: Priya Raman, Head of Customer Experience, Vireo Audio
+To: Kabir Nanda, Account Lead (our side)
+Cc: Arjun Mehta; Neha Kulkarni; Sameer Qureshi
+Date: Wed 9 Sep 2026, 08:30
+Subject: Re: CSAT dashboard
+
+Festive volume was up about 30% and replacements up 100% - Arjun's numbers not mine, and
+the policy doc says a replacement is unit cost plus Rs 340 logistics, not 2,500, so
+someone's arithmetic is off. Anyway. Dashboard first, causes later. Bottom ten, please.
+
+------------------------------------------------------------------------
